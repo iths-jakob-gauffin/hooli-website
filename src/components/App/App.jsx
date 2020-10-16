@@ -32,6 +32,9 @@ const App = () => {
                             <Route path="/hooli-website">
                                     <Content title={textData.strengths.title}  text={textData.strengths.text}/>
                             </Route>
+                            <Route path="/">
+                                    <Content title={textData.strengths.title}  text={textData.strengths.text}/>
+                            </Route>
                         </Switch>
                         <Aside />
                     </div>
