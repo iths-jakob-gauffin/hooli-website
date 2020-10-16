@@ -123,7 +123,7 @@
     &::after{
       position: absolute;
       content: "";
-      background-image: url(/figma/cloud.png);
+      background-image: "url(figma/cloud.png)";
       background-size: cover;
       background-repeat: no-repeat;
       background-position: center;
