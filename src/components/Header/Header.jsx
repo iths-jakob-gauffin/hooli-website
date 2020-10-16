@@ -11,10 +11,10 @@ const Header = () => {
       <Route path="/">
         <img src="figma/Hooli-logo.svg" alt="" className={ block("svg-logo") }/>
           <nav className={ block("nav-section") }>
-            <NavLink to="/strengths"> Vår styrka </NavLink>
-            <NavLink to="/wishes"> Önskemål </NavLink>
-            <NavLink to="/flaws"> Brister </NavLink>
-            <NavLink to="/works"> Arbetssätt </NavLink>
+            <NavLink to="/hooli-website/strengths"> Vår styrka </NavLink>
+            <NavLink to="/hooli-website/wishes"> Önskemål </NavLink>
+            <NavLink to="/hooli-website/flaws"> Brister </NavLink>
+            <NavLink to="/hooli-website/works"> Arbetssätt </NavLink>
           </nav>
       </Route>
     </div>

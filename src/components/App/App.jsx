@@ -17,21 +17,21 @@ const App = () => {
                     <Header />
                     <div className="App__Row">
                         <Switch>
-                            <Route exact path="/">
+                            <Route path="/hooli-website/strengths">
                                     <Content title={textData.strengths.title}  text={textData.strengths.text}/>
                             </Route>
-                            <Route path="/strengths">
-                                    <Content title={textData.strengths.title}  text={textData.strengths.text}/>
-                            </Route>
-                            <Route path="/wishes"> 
+                            <Route path="/hooli-website/wishes"> 
                                     <Content title={textData.wishes.title}  text={textData.wishes.text}/>
                             </Route>
-                            <Route path="/flaws"> 
+                            <Route path="/hooli-website/flaws"> 
                                     <Content title={textData.flaws.title}  text={textData.flaws.text}/>
                                 </Route>
-                            <Route path="/works"> 
+                            <Route path="/hooli-website/works"> 
                                     <Content title={textData.works.title}  text={textData.works.text}/>
                                 </Route>
+                            <Route path="/hooli-website">
+                                    <Content title={textData.strengths.title}  text={textData.strengths.text}/>
+                            </Route>
                         </Switch>
                         <Aside />
                     </div>
