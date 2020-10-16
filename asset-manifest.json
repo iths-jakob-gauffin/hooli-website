@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hooli-website/static/css/main.8afcc6a1.chunk.css",
-    "main.js": "/hooli-website/static/js/main.542738ca.chunk.js",
-    "main.js.map": "/hooli-website/static/js/main.542738ca.chunk.js.map",
+    "main.css": "/hooli-website/static/css/main.3b27b91e.chunk.css",
+    "main.js": "/hooli-website/static/js/main.72c9ffc4.chunk.js",
+    "main.js.map": "/hooli-website/static/js/main.72c9ffc4.chunk.js.map",
     "runtime-main.js": "/hooli-website/static/js/runtime-main.b5980940.js",
     "runtime-main.js.map": "/hooli-website/static/js/runtime-main.b5980940.js.map",
     "static/js/2.c0f6400f.chunk.js": "/hooli-website/static/js/2.c0f6400f.chunk.js",
     "static/js/2.c0f6400f.chunk.js.map": "/hooli-website/static/js/2.c0f6400f.chunk.js.map",
     "index.html": "/hooli-website/index.html",
-    "precache-manifest.61f9218a2af7283d1ea40ecea4642304.js": "/hooli-website/precache-manifest.61f9218a2af7283d1ea40ecea4642304.js",
+    "precache-manifest.4252831df2eff6399bbe05fe26d5d310.js": "/hooli-website/precache-manifest.4252831df2eff6399bbe05fe26d5d310.js",
     "service-worker.js": "/hooli-website/service-worker.js",
-    "static/css/main.8afcc6a1.chunk.css.map": "/hooli-website/static/css/main.8afcc6a1.chunk.css.map",
+    "static/css/main.3b27b91e.chunk.css.map": "/hooli-website/static/css/main.3b27b91e.chunk.css.map",
     "static/js/2.c0f6400f.chunk.js.LICENSE.txt": "/hooli-website/static/js/2.c0f6400f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b5980940.js",
     "static/js/2.c0f6400f.chunk.js",
-    "static/css/main.8afcc6a1.chunk.css",
-    "static/js/main.542738ca.chunk.js"
+    "static/css/main.3b27b91e.chunk.css",
+    "static/js/main.72c9ffc4.chunk.js"
   ]
 }
