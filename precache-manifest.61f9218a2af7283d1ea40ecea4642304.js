@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ddbcd617a7fef6178740e9b26e09203a",
+    "revision": "d143b72247e8a4e23a6258cb9265b06a",
     "url": "/hooli-website/index.html"
   },
   {
-    "revision": "a246626ae5071f02ad3c",
+    "revision": "d3bc633a425c6458cfb6",
     "url": "/hooli-website/static/css/main.8afcc6a1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hooli-website/static/js/2.c0f6400f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a246626ae5071f02ad3c",
-    "url": "/hooli-website/static/js/main.75fce27b.chunk.js"
+    "revision": "d3bc633a425c6458cfb6",
+    "url": "/hooli-website/static/js/main.542738ca.chunk.js"
   },
   {
     "revision": "c217713246db2660385a",
