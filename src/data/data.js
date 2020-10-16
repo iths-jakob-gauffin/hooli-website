@@ -8,7 +8,7 @@ export const textData = {
         text: `Vi tycker det skulle vara kul att arbeta med Wordpress och dess plug-ins. \n\nVi tänker att en Webbshop är ett bra projekt att sätta tänderna i eftersom där finns många möjligheter att införa olika funktionaliteter: en shoppingkorg, användarinloggning, kundkommentarsfält, produktbetygssystem o.s.v. \nDet är tekniker som vi tänker oss kan lära oss mycket.`
     },
     flaws: {
-        title: "Brister2",
+        title: "Brister",
         text: `Vi har verkligen fått tänka hårt och länge för att komma på något där Hoolis expertis inte skulle vara fullkomligt felfri och ”cutting edge”. \n\nMen sen kom vi på att vi har glömt en hel del PHP. \n\nVi har inte heller jobbat särskilt mycket i Wordpress. \n\nMen förhoppningsvis kan vi ändra på detta när vi bekantar oss med Wordpress då vi hoppas att PHP-kunskaperna kommer tillbaka. 
         `
     },
