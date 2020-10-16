@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8afcc6a1.chunk.css",
-    "main.js": "/static/js/main.94fe3e71.chunk.js",
-    "main.js.map": "/static/js/main.94fe3e71.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.10a02e68.js",
-    "runtime-main.js.map": "/static/js/runtime-main.10a02e68.js.map",
-    "static/js/2.c0f6400f.chunk.js": "/static/js/2.c0f6400f.chunk.js",
-    "static/js/2.c0f6400f.chunk.js.map": "/static/js/2.c0f6400f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.99c708050234f03b50569def41fb2688.js": "/precache-manifest.99c708050234f03b50569def41fb2688.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8afcc6a1.chunk.css.map": "/static/css/main.8afcc6a1.chunk.css.map",
-    "static/js/2.c0f6400f.chunk.js.LICENSE.txt": "/static/js/2.c0f6400f.chunk.js.LICENSE.txt"
+    "main.css": "/hooli-website/static/css/main.8afcc6a1.chunk.css",
+    "main.js": "/hooli-website/static/js/main.72b05f3f.chunk.js",
+    "main.js.map": "/hooli-website/static/js/main.72b05f3f.chunk.js.map",
+    "runtime-main.js": "/hooli-website/static/js/runtime-main.b5980940.js",
+    "runtime-main.js.map": "/hooli-website/static/js/runtime-main.b5980940.js.map",
+    "static/js/2.c0f6400f.chunk.js": "/hooli-website/static/js/2.c0f6400f.chunk.js",
+    "static/js/2.c0f6400f.chunk.js.map": "/hooli-website/static/js/2.c0f6400f.chunk.js.map",
+    "index.html": "/hooli-website/index.html",
+    "precache-manifest.c402021cef8b32b7df7284c1a005b2f4.js": "/hooli-website/precache-manifest.c402021cef8b32b7df7284c1a005b2f4.js",
+    "service-worker.js": "/hooli-website/service-worker.js",
+    "static/css/main.8afcc6a1.chunk.css.map": "/hooli-website/static/css/main.8afcc6a1.chunk.css.map",
+    "static/js/2.c0f6400f.chunk.js.LICENSE.txt": "/hooli-website/static/js/2.c0f6400f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10a02e68.js",
+    "static/js/runtime-main.b5980940.js",
     "static/js/2.c0f6400f.chunk.js",
     "static/css/main.8afcc6a1.chunk.css",
-    "static/js/main.94fe3e71.chunk.js"
+    "static/js/main.72b05f3f.chunk.js"
   ]
 }
