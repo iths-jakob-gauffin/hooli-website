@@ -17,7 +17,7 @@ const Employee = ({employee}) => (
 
       <figcaption className="Employee__FigCaption">
 
-        <h5 className="Employee__Name">{employee.name}</h5>
+        <h2 className="Employee__Name">{employee.name}</h2>
         <span className="Employee__Description">{employee.description}</span>
 
       </figcaption>
@@ -87,16 +87,16 @@ const Aside = () => {
         <ul className="Aside__List">
           {employees && employees.map(x =>
           
-            <div className="Aside__EmployeeWrapper" key={x.id}>
-              <Employee employee={x}/>
-            </div>
+            // <div className="Aside__EmployeeWrapper" key={x.id}>
+              <Employee key={x.id} employee={x}/>
+            // </div>
             )}
         </ul>
       
         <div className="Aside__Meta">
-          <h5 className="Aside__MetaTitle">
+          <h3 className="Aside__MetaTitle">
             Contacts
-          </h5>
+          </h3>
           <span className="Aside__MetaAddress">
             Astrakangatan 243
           </span>

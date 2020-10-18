@@ -135,9 +135,8 @@
     }
   }
 
-  &__EmployeeWrapper{
-    margin-bottom: 2rem;
-  }
+  // &__EmployeeWrapper{
+  // }
 
   &__Meta{
     @include p-small(); 
@@ -151,6 +150,7 @@
 .Employee{
   @include p-small();
   color: $grey;
+  margin-bottom: 2rem;
 
   &__Figure{
     display: flex;

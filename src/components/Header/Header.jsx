@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Header.scss";
-import {BrowserRouter as Router, Route, Switch, NavLink} from "react-router-dom";
+import {Route, NavLink} from "react-router-dom";
 import purebem from 'purebem';
 
 const Header = () => {
